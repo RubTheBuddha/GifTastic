@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(93, 218, 218);
+  }
+
+
+  #add-animal {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
+    color: #c9aa71;
+    background-color: #092949;
+    border-color: #2e6da4;
+    border-radius: 25px;
+  }
+
+  form{
+    float: right;
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
+    position: relative;
+    top:-45px;
+   }
+
+  img{
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+  .item {
+    float: left;
+    margin: 10px;
+    height: 300px;
+    width: 300px;
+  }    
+  
+  #buttons-view {
+    width: 75%;
+  }
+
+  #gifs-appear-here {
+    width: 75%;
+  }
+
+  button {
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
+    color: #c9aa71;
+    background-color: #092949;
+    border-color: #2e6da4;
+    border-radius: 25px;
+}
+  }  
